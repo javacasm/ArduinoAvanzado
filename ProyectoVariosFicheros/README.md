@@ -1,6 +1,10 @@
 En este ejemplo vemos como dividir un proyecto Arduino en varios ficheros con el fin de hacerlos más comprensible, ampliable y en un futuro crear una librería a partir de este código
 
-![1](../imagnes/DividirProyectoArduino.png)
+[Proyecto Inicial](./ProyectoOriginal) (1 sólo fichero)
+
+[Proyecto Final](./ProyectoFinal) (4 ficheros)
+
+![1](../imagenes/DividirProyectoArduino.png)
 
 En este [vídeo](https://youtu.be/PPsUHX6nVow) se explica cómo hacerlo con robot movil sencillo
 
