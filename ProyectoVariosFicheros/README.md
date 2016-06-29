@@ -1,5 +1,7 @@
 En este ejemplo vemos como dividir un proyecto Arduino en varios ficheros con el fin de hacerlos más comprensible, ampliable y en un futuro crear una librería a partir de este código
 
+![CC](https://camo.githubusercontent.com/fad0133bba5d16e03dc3b72031d41fbc0a1a9ac1/68747470733a2f2f6c6963656e7365627574746f6e732e6e65742f6c2f62792d73612f332e302f38387833312e706e67)
+
 [Proyecto Inicial](./ProyectoOriginal) (1 sólo fichero)
 
 [Proyecto Final](./ProyectoFinal) (4 ficheros)
